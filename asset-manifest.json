@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Vansh-portfolio/static/css/main.20553785.css",
+    "main.js": "/Vansh-portfolio/static/js/main.d03a7472.js",
+    "static/js/787.667f8d35.chunk.js": "/Vansh-portfolio/static/js/787.667f8d35.chunk.js",
+    "static/media/logo-v.png": "/Vansh-portfolio/static/media/logo-v.84c6ccac61f1ad5717e2.png",
+    "static/media/helvetica-neu.ttf": "/Vansh-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/Vansh-portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo_sub.png": "/Vansh-portfolio/static/media/logo_sub.92800503d86df015a1b2.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/Vansh-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/Vansh-portfolio/index.html",
+    "main.20553785.css.map": "/Vansh-portfolio/static/css/main.20553785.css.map",
+    "main.d03a7472.js.map": "/Vansh-portfolio/static/js/main.d03a7472.js.map",
+    "787.667f8d35.chunk.js.map": "/Vansh-portfolio/static/js/787.667f8d35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20553785.css",
+    "static/js/main.d03a7472.js"
+  ]
+}
